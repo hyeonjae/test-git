@@ -1,0 +1,54 @@
+From 689e1be7abd33077e08775f5f36ac555976bb35c Mon Sep 17 00:00:00 2001
+From: =?UTF-8?q?=EB=B0=95=ED=98=84=EC=9E=AC?= <hyunjae.park@navercorp.com>
+Date: Fri, 20 Oct 2017 14:27:18 +0900
+Subject: [PATCH] feature bbb
+
+---
+ b.txt | 8 ++++++--
+ 1 file changed, 6 insertions(+), 2 deletions(-)
+
+diff --git a/b.txt b/b.txt
+index a542fe4..51a8420 100644
+--- a/b.txt
++++ b/b.txt
+@@ -1,4 +1,8 @@
+ xxx
+ xxsss
+-xxx
+-xxx
++xxbbx
++xxxbbb
++b
++b
++b
++b
+-- 
+2.10.1
+
+From 930d17e768167a44dbde981fd5e9d9979578ee05 Mon Sep 17 00:00:00 2001
+From: =?UTF-8?q?=EB=B0=95=ED=98=84=EC=9E=AC?= <hyunjae.park@navercorp.com>
+Date: Fri, 20 Oct 2017 14:26:00 +0900
+Subject: [PATCH] develop aaa2
+
+---
+ a.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/a.txt b/a.txt
+index a908e6b..ea857ce 100644
+--- a/a.txt
++++ b/a.txt
+@@ -5,8 +5,8 @@ bbbbb
+ ccccc
+ ddddd
+ eeeee
+-ffff
+-
++ffffaaaa
++aaaa
+ ddd
+ ddd
+ ddd
+-- 
+2.10.1
+
